@@ -31,7 +31,7 @@ ram: 6 GB
 recovery_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd> until the LG logo appears, then release <kbd>Power</kbd> for a second and hold it again until the recovery comes up.
 recovery_partition_name: boot
 release: 2019-06
-screen: {resolution: '2248x1440', size: 6.2, technology: 'P-OLED'}
+screen: {resolution: '2248x1080', size: 6.21, technology: 'G-OLED'}
 sdcard: {size_max: '2 TB'}
 soc: Qualcomm SM8150 Snapdragon 855
 storage: 64GB, 128 GB
