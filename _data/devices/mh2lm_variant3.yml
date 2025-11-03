@@ -13,7 +13,7 @@ cpu_cores: '8'
 cpu_freq: 1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.78 GHz
 current_branch: 21
 dimensions: {depth: 8.4, height: 159.3, width: 75.8}
-download_boot: With the device powered off, hold <kbd>Volume Up</kbd>, then connect a USB cable.
+download_boot: With the device powered off, hold <kbd>Volume Down</kbd>, then connect a USB cable.
 gpu: Qualcomm Adreno 640
 image: mh2lm.png
 install_method: dd
@@ -31,7 +31,7 @@ recovery_boot: Run `adb reboot recovery`.
 recovery_partition: /dev/block/bootdevice/by-name/boot
 recovery_partition_name: boot
 release: 2019-06
-screen: {resolution: '2340x1440', size: 6.4, technology: 'P-OLED'}
+screen: {resolution: '2340x1080', size: 6.4, technology: 'OLED'}
 sdcard: {size_max: '2 TB'}
 soc: Qualcomm SM8150 Snapdragon 855
 storage: 256 GB
